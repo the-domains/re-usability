@@ -1,0 +1,23 @@
+name: (Re)usability
+favicon: null
+layout_spectrum: 0.610343687236309
+typography_spectrum: 0.8402687062043697
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.5071291979402304
+  lightness: 0.3994345951359719
+  saturation: 0.38458025990985334
+  rhythmicContrast: 0.6406877965200692
+purpose: []
